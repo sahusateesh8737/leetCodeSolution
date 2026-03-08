@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0136-single-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0735-asteroid-collision](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0735-asteroid-collision) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0136-single-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
 ## Stack
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0735-asteroid-collision) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
