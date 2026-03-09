@@ -101,4 +101,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
