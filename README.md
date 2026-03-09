@@ -89,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
