@@ -1,0 +1,31 @@
+class Solution {
+    private:
+     bool allCapital(string word){
+        for(char &ch : word){
+            if(ch <'A' || ch > 'Z' ){
+                return false;
+            } 
+           
+        }
+         return true;
+    }
+    
+    bool allSmall(string word){
+        for(char &ch : word){
+            if(ch <'a' || ch > 'z' ){
+                return false;
+            } 
+           
+        }
+         return true;
+    }
+public:
+   
+    
+    bool detectCapitalUse(string word) {
+        if(allCapital(word) || allSmall(word) || allSmall(word.substr(1))){
+            return true;
+        }
+        return false;
+    }
+};
