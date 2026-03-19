@@ -1,25 +1,38 @@
 class Solution {
 public:
     
-    void dfs(int node, vector<vector<int>>& isConnected, vector<int>& vis) {
+    void dfs(int node, vector<vector<int>>& adj, vector<int>& vis) {
         vis[node] = 1;
         
-        for (int j = 0; j < isConnected.size(); j++) {
-            if (isConnected[node][j] == 1 && !vis[j]) {
-                dfs(j, isConnected, vis);
+        for (auto it : adj[node]) {
+            if (!vis[it]) {
+                dfs(it, adj, vis);
             }
         }
     }
     
     int findCircleNum(vector<vector<int>>& isConnected) {
         int V = isConnected.size();
+        
+        // Step 1: Convert matrix to adjacency list
+        vector<vector<int>> adj(V);
+        
+        for (int i = 0; i < V; i++) {
+            for (int j = 0; j < V; j++) {
+                if (isConnected[i][j] == 1 && i != j) {
+                    adj[i].push_back(j);
+                }
+            }
+        }
+        
+        // Step 2: DFS to count components
         vector<int> vis(V, 0);
         int count = 0;
         
         for (int i = 0; i < V; i++) {
             if (!vis[i]) {
                 count++;
-                dfs(i, isConnected, vis);
+                dfs(i, adj, vis);
             }
         }
         
