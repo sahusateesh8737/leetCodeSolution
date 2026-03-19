@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1207-unique-number-of-occurrences) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1512-number-of-good-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [1002-find-common-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0451-sort-characters-by-frequency) |
+| [1512-number-of-good-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0172-factorial-trailing-zeroes) |
 | [0233-number-of-digit-one](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0233-number-of-digit-one) |
 | [0343-integer-break](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0343-integer-break) |
+| [1512-number-of-good-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1512-number-of-good-pairs) |
 | [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
 ## Dynamic Programming
 |  |
