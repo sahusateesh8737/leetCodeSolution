@@ -1,17 +1,15 @@
 class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {
-        map<int , int>mp;
-        unordered_set<int>st;
-        for(int i =0;i<arr.size();i++){
-                mp[arr[i]]++;
+        vector<int>ans(2001,0);
+        for(int &x : arr){
+            ans[x+1000]++;
         }
-        for(auto it : mp){
-            int num = it.second;
-            if(st.find(num) !=st.end()){
+        sort(ans.begin(),ans.end());
+        for(int i = 1;i < 2001 ;i++){
+            if(ans[i]!=0&&ans[i]==ans[i-1]){
                 return false;
             }
-            st.insert(num);
         }
         return true;
     }
