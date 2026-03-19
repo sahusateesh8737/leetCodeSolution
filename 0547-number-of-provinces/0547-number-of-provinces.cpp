@@ -1,27 +1,28 @@
 class Solution {
-    private: 
-    void dfs(int start , vector<bool>& isVisited , vector<vector<int>>& isConnected){
-        isVisited[start] = true;
-       for(int j = 0; j < isConnected.size(); j++) {
-            // If there is a connection (1) AND the city 'j' hasn't been visited yet
-            if(isConnected[start][j] == 1 && !isVisited[j]) {
-                dfs(j, isVisited, isConnected);
+public:
+    
+    void dfs(int node, vector<vector<int>>& isConnected, vector<int>& vis) {
+        vis[node] = 1;
+        
+        for (int j = 0; j < isConnected.size(); j++) {
+            if (isConnected[node][j] == 1 && !vis[j]) {
+                dfs(j, isConnected, vis);
             }
         }
     }
-
-public:
+    
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int num = isConnected.size();
-        vector<bool>isVisited(num , false);
-        int provinces = 0;
-
-        for(int i= 0;i<num;i++){
-            if(!isVisited[i]) {
-            dfs(i , isVisited , isConnected);
-            provinces++;
+        int V = isConnected.size();
+        vector<int> vis(V, 0);
+        int count = 0;
+        
+        for (int i = 0; i < V; i++) {
+            if (!vis[i]) {
+                count++;
+                dfs(i, isConnected, vis);
+            }
         }
-        }
-        return provinces;
+        
+        return count;
     }
 };
