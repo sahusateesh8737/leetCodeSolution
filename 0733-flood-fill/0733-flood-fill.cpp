@@ -30,12 +30,12 @@ public:
 
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int inColor = image[sr][sc];
-        
+        vector<vector<int>>&ans = image;
     
         if (inColor == color) return image;
 
       
-        bfs(sr, sc, image, color, inColor);
+        bfs(sr, sc, ans, color, inColor);
         
         return image;
     }
