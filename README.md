@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0200-number-of-islands) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0498-diagonal-traverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0498-diagonal-traverse) |
@@ -139,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0498-diagonal-traverse) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
 | [2352-equal-row-and-column-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2352-equal-row-and-column-pairs) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
