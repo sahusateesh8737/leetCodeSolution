@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0735-asteroid-collision) |
 | [0896-monotonic-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [1002-find-common-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1002-find-common-characters) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1046-last-stone-weight) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## String
 |  |
