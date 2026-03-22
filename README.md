@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0785-is-graph-bipartite) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
@@ -199,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
+## Tree
+|  |
+| ------- |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0958-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
