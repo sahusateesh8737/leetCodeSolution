@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0498-diagonal-traverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0498-diagonal-traverse) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [1002-find-common-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1002-find-common-characters) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0976-largest-perimeter-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
