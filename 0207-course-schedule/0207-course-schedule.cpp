@@ -1,42 +1,39 @@
 class Solution {
 public:
-   bool topologicalSortCheck(unordered_map<int , vector<int>> &adj , int n , vector<int>&indegree){
-    queue<int> que;
-    int count = 0;
+    bool canFinish(int V, vector<vector<int>>& prerequisites) {
 
-    // 1. Initial scan: Find ALL nodes with 0 indegree first
-    for(int i = 0; i < n; i++){
-        if(indegree[i] == 0){
-            que.push(i);
+        vector<int>adj[V];
+        for(auto it : prerequisites){
+            adj[it[1]].push_back(it[0]);
         }
-    }
 
-    // 2. Process the queue (BFS)
-    while(!que.empty()){
-        int u = que.front();
-        que.pop();
-        count++; // Increment count when a node is "removed" from the graph
-
-        for(int &v : adj[u]){
-            indegree[v]--;  
-            if(indegree[v] == 0){
-                que.push(v);
+        vector<int>indegree(V,0);
+        for(int i = 0;i<V;i++){
+            for(auto it : adj[i]){
+                indegree[it]++;
             }
         }
-    }
-
-    // If count == n, it's a Directed Acyclic Graph (DAG)
-    return count == n;
-}
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        unordered_map<int , vector<int>> adj;
-        vector<int>indegree(numCourses , 0);
-        for(auto &vec : prerequisites){
-            int a = vec[0];
-            int b = vec[1];
-            adj[b].push_back(a);
-            indegree[a]++;
+        queue<int>q;
+        for(int i = 0;i<V;i++){
+            if(indegree[i] ==0){
+                q.push(i);
+            }
         }
-        return topologicalSortCheck(adj , numCourses , indegree);
+        vector<int>topo;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            topo.push_back(node);
+            for(auto it : adj[node]){
+                indegree[it]--;
+                if(indegree[it] ==0 ){
+                    q.push(it);
+                }
+            }
+        }
+        if(topo.size() == V){
+            return true;
+        }
+        return false;
     }
 };
