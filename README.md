@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1207-unique-number-of-occurrences) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1512-number-of-good-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1539-kth-missing-positive-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0233-number-of-digit-one) |
 | [0343-integer-break](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0343-integer-break) |
 | [0976-largest-perimeter-triangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0976-largest-perimeter-triangle) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1512-number-of-good-pairs) |
 | [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0219-contains-duplicate-ii) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
