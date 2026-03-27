@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0976-largest-perimeter-triangle) |
+| [0997-find-the-town-judge](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1002-find-common-characters) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1046-last-stone-weight) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0451-sort-characters-by-frequency) |
+| [0997-find-the-town-judge](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1512-number-of-good-pairs) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0785-is-graph-bipartite) |
+| [0997-find-the-town-judge](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
