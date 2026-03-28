@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0090-subsets-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0014-longest-common-prefix) |
 | [0451-sort-characters-by-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0520-detect-capital) |
 | [1002-find-common-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1002-find-common-characters) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1232-check-if-it-is-a-straight-line) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
