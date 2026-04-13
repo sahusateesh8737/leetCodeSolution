@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2352-equal-row-and-column-pairs) |
+| [2788-split-strings-by-separator](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2788-split-strings-by-separator) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1768-merge-strings-alternately) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2788-split-strings-by-separator](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2788-split-strings-by-separator) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3856-trim-trailing-vowels) |
 ## Heap (Priority Queue)
