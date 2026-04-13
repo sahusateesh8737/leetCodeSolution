@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
