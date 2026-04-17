@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1306-jump-game-iii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1306-jump-game-iii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -334,10 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
