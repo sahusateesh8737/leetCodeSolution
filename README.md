@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1002-find-common-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1370-increasing-decreasing-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1370-increasing-decreasing-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1768-merge-strings-alternately) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0735-asteroid-collision) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Simulation
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1387-sort-integers-by-the-power-value) |
 | [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Combinatorics
 |  |
 | ------- |
