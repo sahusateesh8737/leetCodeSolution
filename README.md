@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0182-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0262-trips-and-users) |
+| [0627-swap-sex-of-employees](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1068-product-sales-analysis-i) |
 | [1484-group-sold-products-by-the-date](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1484-group-sold-products-by-the-date) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1741-find-total-time-spent-by-each-employee) |
