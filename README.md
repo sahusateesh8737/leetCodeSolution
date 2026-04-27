@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1232-check-if-it-is-a-straight-line) |
