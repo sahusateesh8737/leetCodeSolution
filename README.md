@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1920-build-array-from-permutation) |
+| [1991-find-the-middle-index-in-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
@@ -430,5 +431,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1991-find-the-middle-index-in-array) |
 | [2615-sum-of-distances](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
