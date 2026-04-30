@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0014-longest-common-prefix) |
+| [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0678-valid-parenthesis-string) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0797-all-paths-from-source-to-target) |
 ## Math
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0419-battleships-in-a-board](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0419-battleships-in-a-board) |
 | [0547-number-of-provinces](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0733-flood-fill) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Greedy
