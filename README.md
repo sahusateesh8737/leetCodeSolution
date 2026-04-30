@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0136-single-number) |
+| [0397-integer-replacement](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0397-integer-replacement) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
 ## Stack
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0233-number-of-digit-one) |
 | [0343-integer-break](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0343-integer-break) |
+| [0397-integer-replacement](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1387-sort-integers-by-the-power-value) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0860-lemonade-change) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0397-integer-replacement) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1387-sort-integers-by-the-power-value) |
 ## Counting Sort
 |  |
