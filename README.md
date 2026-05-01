@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [1002-find-common-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1002-find-common-characters) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0976-largest-perimeter-triangle) |
