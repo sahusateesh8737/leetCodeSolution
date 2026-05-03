@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0182-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0511-game-play-analysis-i) |
