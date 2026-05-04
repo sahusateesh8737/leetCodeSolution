@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0078-subsets) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0172-factorial-trailing-zeroes) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0419-battleships-in-a-board) |
