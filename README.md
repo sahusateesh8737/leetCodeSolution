@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0061-rotate-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
@@ -493,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
