@@ -6,12 +6,12 @@ public:
             windowSum += nums[i];
         }
         
-        double maxAverage = windowSum / k;
+        double maxSum = windowSum;
         for(int i = k ; i < nums.size();i++){
             windowSum  = windowSum + nums[i] - nums[i-k];
-            double avg = windowSum /k;
-            maxAverage = max(maxAverage , avg);
+            
+            maxSum = max(maxSum , windowSum);
         }
-        return maxAverage;
+        return maxSum /k;
     }
 };
