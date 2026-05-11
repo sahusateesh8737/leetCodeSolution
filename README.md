@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1920-build-array-from-permutation) |
 | [2352-equal-row-and-column-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2352-equal-row-and-column-pairs) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2739-total-distance-traveled](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2739-total-distance-traveled) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
