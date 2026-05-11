@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0014-longest-common-prefix) |
 | [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0451-sort-characters-by-frequency) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0643-maximum-average-subarray-i) |
