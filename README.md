@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2352-equal-row-and-column-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2352-equal-row-and-column-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2615-sum-of-distances) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0713-subarray-product-less-than-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Geometry
 |  |
 | ------- |
