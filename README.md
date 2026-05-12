@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1387-sort-integers-by-the-power-value) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## String
 |  |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Sliding Window
