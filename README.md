@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1512-number-of-good-pairs) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1991-find-the-middle-index-in-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2615-sum-of-distances) |
