@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1340-jump-game-v) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0976-largest-perimeter-triangle) |
+| [1340-jump-game-v](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1340-jump-game-v) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0788-rotated-digits) |
+| [1340-jump-game-v](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1340-jump-game-v) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1387-sort-integers-by-the-power-value) |
 | [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
