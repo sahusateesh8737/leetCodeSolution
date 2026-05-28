@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1861-rotating-the-box) |
+| [2396-strictly-palindromic-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2396-strictly-palindromic-number) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2396-strictly-palindromic-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2396-strictly-palindromic-number) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2614-prime-in-diagonal) |
@@ -578,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0061-rotate-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
