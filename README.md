@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2614-prime-in-diagonal) |
 | [2739-total-distance-traveled](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2739-total-distance-traveled) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2769-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2843-count-symmetric-integers) |
 | [3099-harshad-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3099-harshad-number) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3783-mirror-distance-of-an-integer) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2843-count-symmetric-integers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2951-find-the-peaks) |
 ## Prefix Sum
 |  |
