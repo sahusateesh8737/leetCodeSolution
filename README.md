@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3660-jump-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3660-jump-game-ix) |
+| [3701-compute-alternating-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3866-first-unique-even-element) |
 ## Hash Table
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2739-total-distance-traveled](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2739-total-distance-traveled) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3701-compute-alternating-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Backtracking
 |  |
