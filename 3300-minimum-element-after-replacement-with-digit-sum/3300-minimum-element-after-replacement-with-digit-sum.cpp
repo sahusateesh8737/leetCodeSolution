@@ -10,13 +10,13 @@ public:
     return sum;
     }
     int minElement(vector<int>& nums) {
+        int mini=36;
         for(int i =0;i<nums.size();i++){
          int digit = sumCal(nums[i]);
-         nums[i] = digit;
+             mini = min(mini , digit);
         }
 
-        int min_vec = *min_element(nums.begin(), nums.end());
-    return min_vec;
+       return mini;
     }
      
 };
