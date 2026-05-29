@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1871-jump-game-vii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2788-split-strings-by-separator](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2788-split-strings-by-separator) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3093-longest-common-suffix-queries) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0735-asteroid-collision) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1920-build-array-from-permutation) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2352-equal-row-and-column-pairs) |
