@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1871-jump-game-vii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2506-count-pairs-of-similar-strings) |
 | [2788-split-strings-by-separator](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2788-split-strings-by-separator) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
