@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2614-prime-in-diagonal) |
+| [2652-sum-multiples](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2739-total-distance-traveled) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2843-count-symmetric-integers) |
