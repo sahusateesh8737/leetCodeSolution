@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0735-asteroid-collision) |
+| [1688-count-of-matches-in-tournament](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1688-count-of-matches-in-tournament) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1920-build-array-from-permutation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
+| [1688-count-of-matches-in-tournament](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1688-count-of-matches-in-tournament) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1837-sum-of-digits-in-base-k) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
