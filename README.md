@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1387-sort-integers-by-the-power-value) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2784-check-if-array-is-good](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2784-check-if-array-is-good) |
 ## String
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Sliding Window
 |  |
