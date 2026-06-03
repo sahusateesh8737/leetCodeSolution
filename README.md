@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3660-jump-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3660-jump-game-ix) |
 | [3701-compute-alternating-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3701-compute-alternating-sum) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2396-strictly-palindromic-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1539-kth-missing-positive-number) |
 | [3161-block-placement-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2784-check-if-array-is-good](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
 |  |
 | ------- |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sliding Window
 |  |
 | ------- |
