@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3660-jump-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3701-compute-alternating-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3866-first-unique-even-element) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -667,4 +670,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
