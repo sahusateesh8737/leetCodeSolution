@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1840-maximum-building-height](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1387-sort-integers-by-the-power-value) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1840-maximum-building-height](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1688-count-of-matches-in-tournament) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1837-sum-of-digits-in-base-k) |
+| [1840-maximum-building-height](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1840-maximum-building-height) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2235-add-two-integers) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2310-sum-of-numbers-with-units-digit-k) |
