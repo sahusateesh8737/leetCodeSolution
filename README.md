@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1002-find-common-characters) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1345-jump-game-iv](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1345-jump-game-iv) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1002-find-common-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1370-increasing-decreasing-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1370-increasing-decreasing-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1370-increasing-decreasing-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1394-find-lucky-integer-in-an-array) |
