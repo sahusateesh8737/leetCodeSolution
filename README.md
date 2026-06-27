@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2951-find-the-peaks) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3161-block-placement-queries) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2843-count-symmetric-integers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2951-find-the-peaks) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
