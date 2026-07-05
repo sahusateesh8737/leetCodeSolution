@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0896-monotonic-array) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1340-jump-game-v) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1387-sort-integers-by-the-power-value) |
