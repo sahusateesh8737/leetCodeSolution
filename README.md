@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1288-remove-covered-intervals](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1306-jump-game-iii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0976-largest-perimeter-triangle) |
+| [1288-remove-covered-intervals](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1340-jump-game-v) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
