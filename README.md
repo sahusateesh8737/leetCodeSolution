@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1002-find-common-characters) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1768-merge-strings-alternately) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1340-jump-game-v) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1346-check-if-n-and-its-double-exist) |
