@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2685-count-the-number-of-complete-components) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3620-network-recovery-pathways) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
