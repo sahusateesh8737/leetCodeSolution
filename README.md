@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Brainteaser
