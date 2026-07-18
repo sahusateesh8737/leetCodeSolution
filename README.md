@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1837-sum-of-digits-in-base-k) |
 | [1840-maximum-building-height](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2235-add-two-integers) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1492-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2614-prime-in-diagonal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
