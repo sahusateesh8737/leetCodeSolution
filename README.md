@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1260-shift-2d-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1301-number-of-paths-with-max-score) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1688-count-of-matches-in-tournament) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1920-build-array-from-permutation) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1861-rotating-the-box](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1861-rotating-the-box) |
