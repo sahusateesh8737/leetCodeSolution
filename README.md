@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3620-network-recovery-pathways) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
 |  |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3516-find-closest-person) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
