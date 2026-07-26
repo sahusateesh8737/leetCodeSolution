@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0713-subarray-product-less-than-k) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0922-sort-array-by-parity-ii) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0788-rotated-digits) |
 | [0976-largest-perimeter-triangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0976-largest-perimeter-triangle) |
