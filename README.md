@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0922-sort-array-by-parity-ii) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1037-valid-boomerang) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1340-jump-game-v) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1387-sort-integers-by-the-power-value) |
@@ -903,4 +906,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
