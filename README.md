@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0506-relative-ranks) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0507-perfect-number) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0788-rotated-digits) |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
 | ------- |
@@ -895,4 +899,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
