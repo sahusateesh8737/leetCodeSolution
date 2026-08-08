@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1871-jump-game-vii) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3620-network-recovery-pathways) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
