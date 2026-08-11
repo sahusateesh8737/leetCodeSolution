@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2899-last-visited-integers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2899-last-visited-integers) |
 | [2951-find-the-peaks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2951-find-the-peaks) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2960-count-tested-devices-after-test-operations) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3517-smallest-palindromic-rearrangement-i) |
