@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2126-destroying-asteroids) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1837-sum-of-digits-in-base-k) |
 | [1840-maximum-building-height](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2235-add-two-integers) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -955,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2029-stone-game-ix) |
 ## Ternary Search
 |  |
 | ------- |
@@ -964,15 +969,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
