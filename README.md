@@ -642,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0419-battleships-in-a-board](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0419-battleships-in-a-board) |
 | [0547-number-of-provinces](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0547-number-of-provinces) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0797-all-paths-from-source-to-target) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0450-delete-node-in-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0450-delete-node-in-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2196-create-binary-tree-from-descriptions) |
