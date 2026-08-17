@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0419-battleships-in-a-board](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0419-battleships-in-a-board) |
 | [0547-number-of-provinces](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0547-number-of-provinces) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0450-delete-node-in-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0450-delete-node-in-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -941,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0450-delete-node-in-a-bst) |
 ## Shortest Path
 |  |
