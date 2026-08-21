@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3093-longest-common-suffix-queries) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3161-block-placement-queries) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3099-harshad-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -639,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Depth-First Search
@@ -877,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2614-prime-in-diagonal) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3348-smallest-divisible-digit-product-ii) |
