@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1837-sum-of-digits-in-base-k) |
 | [1840-maximum-building-height](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2126-destroying-asteroids) |
@@ -993,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2029-stone-game-ix) |
 ## Ternary Search
 |  |
