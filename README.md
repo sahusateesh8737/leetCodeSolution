@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
