@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Radix Sort
@@ -967,11 +970,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
