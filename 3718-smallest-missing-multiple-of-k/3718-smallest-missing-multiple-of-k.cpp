@@ -5,7 +5,7 @@ public:
         for(int i =0;i<nums.size();i++){
             st.insert(nums[i]);
         }
-        for(int i = 1;i<=nums.size()*k+1;i++){
+        for(int i = 1;i<=101;i++){
             if(!st.contains(i * k)){
                 return (i*k);
             }
