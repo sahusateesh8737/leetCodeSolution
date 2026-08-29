@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2788-split-strings-by-separator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2899-last-visited-integers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2899-last-visited-integers) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2784-check-if-array-is-good) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
