@@ -973,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Brainteaser
