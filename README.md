@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
