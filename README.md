@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0455-assign-cookies) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0374-guess-number-higher-or-lower) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
