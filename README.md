@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1688-count-of-matches-in-tournament) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1871-jump-game-vii) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1641-count-sorted-vowel-strings) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -996,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1140-stone-game-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1871-jump-game-vii) |
