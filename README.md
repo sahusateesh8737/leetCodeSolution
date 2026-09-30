@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1163,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
