@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0392-is-subsequence) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0078-subsets) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0070-climbing-stairs) |
@@ -1168,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
