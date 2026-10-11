@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2788-split-strings-by-separator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1025,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1291-sequential-digits) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
