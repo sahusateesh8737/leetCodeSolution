@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0209-minimum-size-subarray-sum) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0233-number-of-digit-one) |
 | [0343-integer-break](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0367-valid-perfect-square) |
