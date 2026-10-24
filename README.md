@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2241-design-an-atm-machine](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2241-design-an-atm-machine) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2418-sort-the-people) |
@@ -967,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2241-design-an-atm-machine](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2241-design-an-atm-machine) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -1208,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [2241-design-an-atm-machine](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2241-design-an-atm-machine) |
 ## Randomized
 |  |
 | ------- |
