@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2409-count-days-spent-together](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -965,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
