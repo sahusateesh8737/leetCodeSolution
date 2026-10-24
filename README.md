@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0233-number-of-digit-one) |
+| [0322-coin-change](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0396-rotate-function) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0785-is-graph-bipartite) |
@@ -1230,4 +1233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
