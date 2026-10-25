@@ -1049,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0511-game-play-analysis-i) |
 | [0585-investments-in-2016](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0595-big-countries) |
+| [0601-human-traffic-of-stadium](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0601-human-traffic-of-stadium) |
 | [0627-swap-sex-of-employees](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1070-product-sales-analysis-iii) |
