@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1254-number-of-closed-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1288-remove-covered-intervals) |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1306-jump-game-iii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1345-jump-game-iv) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -883,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -908,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2685-count-the-number-of-complete-components) |
