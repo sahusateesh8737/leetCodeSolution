@@ -1051,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0595-big-countries) |
 | [0627-swap-sex-of-employees](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1070-product-sales-analysis-iii) |
 | [1484-group-sold-products-by-the-date](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1741-find-total-time-spent-by-each-employee) |
