@@ -1,0 +1,49 @@
+import java.util.ArrayDeque;
+import java.util.Queue;
+
+class Solution {
+    public int countIslands(int[][] grid, int k) {
+        int m = grid.length;
+        int n = grid[0].length;
+        int count = 0;
+        
+        int[] dirs = {-1, 0, 1, 0, -1};
+        Queue<int[]> queue = new ArrayDeque<>();
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] > 0) {
+                    long islandSum = 0;
+                    
+                   
+                    queue.offer(new int[]{i, j});
+                    islandSum += grid[i][j];
+                    grid[i][j] = 0; 
+
+                    while (!queue.isEmpty()) {
+                        int[] curr = queue.poll();
+                        int r = curr[0];
+                        int c = curr[1];
+
+                        for (int d = 0; d < 4; d++) {
+                            int nr = r + dirs[d];
+                            int nc = c + dirs[d + 1];
+
+                            if (nr >= 0 && nr < m && nc >= 0 && nc < n && grid[nr][nc] > 0) {
+                                islandSum += grid[nr][nc];
+                                grid[nr][nc] = 0; 
+                                queue.offer(new int[]{nr, nc});
+                            }
+                        }
+                    }
+
+                    if (islandSum % k == 0) {
+                        count++;
+                    }
+                }
+            }
+        }
+
+        return count;
+    }
+}
