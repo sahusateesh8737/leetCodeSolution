@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3904-smallest-stable-index-ii) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3886-sum-of-sortable-integers) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Interactive
 |  |
 | ------- |
