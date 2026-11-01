@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0812-largest-triangle-area](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0860-lemonade-change) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0788-rotated-digits) |
+| [0812-largest-triangle-area](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0883-projection-area-of-3d-shapes) |
@@ -1045,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0883-projection-area-of-3d-shapes) |
 | [1037-valid-boomerang](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1037-valid-boomerang) |
@@ -1297,4 +1300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0703-kth-largest-element-in-a-stream) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
