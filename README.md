@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0498-diagonal-traverse) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0396-rotate-function](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0504-base-7) |
