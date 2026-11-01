@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0164-maximum-gap) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0219-contains-duplicate-ii) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0233-number-of-digit-one) |
@@ -1047,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0883-projection-area-of-3d-shapes) |
@@ -1304,4 +1308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0812-largest-triangle-area) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
