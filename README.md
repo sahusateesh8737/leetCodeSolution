@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0883-projection-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0922-sort-array-by-parity-ii) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0883-projection-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1037-valid-boomerang) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0835-image-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0883-projection-area-of-3d-shapes) |
 | [1020-number-of-enclaves](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1260-shift-2d-grid) |
@@ -1043,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0883-projection-area-of-3d-shapes) |
 | [1037-valid-boomerang](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1401-circle-and-rectangle-overlapping) |
