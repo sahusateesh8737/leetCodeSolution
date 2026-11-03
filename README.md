@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0233-number-of-digit-one) |
 | [0343-integer-break](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0367-valid-perfect-square) |
@@ -1056,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0883-projection-area-of-3d-shapes) |
