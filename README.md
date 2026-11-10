@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
