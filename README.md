@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2352-equal-row-and-column-pairs) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2553-separate-the-digits-in-an-array) |
