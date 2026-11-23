@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/2185-counting-words-with-a-given-prefix) |
