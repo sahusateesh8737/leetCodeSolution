@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0200-number-of-islands) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1189-maximum-number-of-balloons) |
@@ -1252,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0169-majority-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3719-longest-balanced-subarray-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1386,4 +1391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/3934-smallest-unique-subarray) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sahusateesh8737/leetCodeSolution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
